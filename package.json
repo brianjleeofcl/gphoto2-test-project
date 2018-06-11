@@ -1,0 +1,22 @@
+{
+  "name": "gphoto2-test-project",
+  "version": "1.0.0",
+  "description": "testing out npm gphoto2 pg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianjleeofcl/gphoto2-test-project.git"
+  },
+  "author": "Brian Lee <brianjleeofcl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianjleeofcl/gphoto2-test-project/issues"
+  },
+  "homepage": "https://github.com/brianjleeofcl/gphoto2-test-project#readme",
+  "dependencies": {
+    "gphoto2": "^0.3.0"
+  }
+}
